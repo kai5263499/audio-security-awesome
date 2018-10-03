@@ -4,9 +4,14 @@ audio-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 
 A collection of audio security related resources
 
-* [**Voice Cloning Blog Posts**](#voice-cloning-blog-posts)
-* [**Voice Cloning Papers**](#voice-cloning-papers)
-* [**Voice Cloning Implementations**](#voice-cloning-implementations)
+* Voice Cloning
+  * [**Blog Posts**](#voice-cloning-blog-posts)
+  * [**Voice Cloning Papers**](#voice-cloning-papers)
+  * [**Voice Cloning Implementations**](#voice-cloning-implementations)
+
+* [Data Sets](#data-sets)
+
+* [Commercial Services](#commercial-services)
 
 ------------------------------------------------------------------------------------------
 
