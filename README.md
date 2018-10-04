@@ -17,7 +17,7 @@ A collection of audio security related resources
 
 # Voice Cloning Blog Posts
 ------------------------------------------------------------------------------------------
-### [Audio texture synthesis and style transfer](http://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/)
+### [Audio texture synthesis and style transfer](https://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/)
 
 ### [CycleGAN VC](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/cyclegan-vc/)
 * Parallel-Data-Free Voice Conversion Using Cycle-Consistent Adversarial Networks
