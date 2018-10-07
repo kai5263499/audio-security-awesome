@@ -44,3 +44,24 @@ A collection of audio security related resources
 
 ### [WaveGAN](https://github.com/chrisdonahue/wavegan)
 * Python
+
+# Datasets
+------------------------------------------------------------------------------------------
+
+Here are a collection of audio datasets for training new models
+
+### [Google Audio Set](https://research.google.com/audioset/index.html)
+
+### [Urban Sound Dataset](https://serv.cusp.nyu.edu/projects/urbansounddataset/)
+* Contains urban sound tags like birds, car horns, etc
+
+### [RAVDESS](https://smartlaboratory.org/ravdess)
+* The Ryerson Audio-Visual Database of Emotional Speech and Song
+* Contains emotion tags
+
+### [LJ Speech](https://keithito.com/LJ-Speech-Dataset/)
+* 13,100 short audio clips of a single speaker reading passages from 7 non-fiction books
+* Sourced from the LibriVox project
+
+### [Blizzard Challenge 2017](https://synsig.org/index.php/Blizzard_Challenge_2017)
+* Data comes from professional audiobooks produced by Usborne Publishing
