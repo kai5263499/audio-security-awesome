@@ -96,3 +96,26 @@ Here are a collection of audio datasets for training new models
 * WaveNet is a deep neural network for generating raw audio. It was created by researchers at London-based artificial intelligence firm DeepMind. The technique, outlined in a paper in September 2016,[1] is able to generate more realistic-sounding human-like voices by sampling real human speech and directly modelling waveforms.
 * [Keras implementation of Wavenet](https://github.com/basveeling/wavenet)
 * [Tensorflow implementation of WaveNet](https://github.com/ibab/tensorflow-wavenet)
+
+# Commercial Services
+------------------------------------------------------------------------------------------
+
+Sometimes open source projects either aren't up to par or a service with greater compute resources behind it makes more sense for a project.
+
+### [Snowboy Kitt AI](https://snowboy.kitt.ai/)
+* [Snowboy Go Wrapper](https://github.com/brentnd/go-snowboy)
+
+### [IBM Watson Speech to Text](https://www.ibm.com/cloud/watson-speech-to-text)
+* Free usage tier
+* Otherwise $.0125/min
+* Requires text to be chunked so you'll need to split it along pauses
+
+### [Amazon Polly](https://aws.amazon.com/polly/)
+* Free usage tier
+* Something like $0.10/min - Not cheap
+
+### [Youtube](https://www.youtube.com/upload)
+* Automatically transcribes speech to text for free!
+
+### [Copsonic](https://www.copsonic.com/)
+* Various audio security services. Use with caution.
