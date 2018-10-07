@@ -9,7 +9,7 @@ A collection of audio security related resources
   * [**Voice Cloning Papers**](#voice-cloning-papers)
   * [**Voice Cloning Implementations**](#voice-cloning-implementations)
 
-* [Data Sets](#data-sets)
+* [Datasets](#datasets)
 
 * [Speech To Text](#speech-to-text)
 
@@ -69,6 +69,10 @@ Here are a collection of audio datasets for training new models
 
 ### [Blizzard Challenge 2017](https://synsig.org/index.php/Blizzard_Challenge_2017)
 * Data comes from professional audiobooks produced by Usborne Publishing
+
+### [CSTR VCTK Corpus](http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html)
+* This CSTR VCTK Corpus includes speech data uttered by 109 native speakers of English with various accents. Each speaker reads out about 400 sentences, most of which were selected from a newspaper plus the Rainbow Passage and an elicitation paragraph intended to identify the speaker's accent.
+* All speech data was recorded using an identical recording setup: an omni-directional head-mounted microphone (DPA 4035), 96kHz sampling frequency at 24 bits and in a hemi-anechoic chamber of the University of Edinburgh.
 
 # Speech To Text
 ------------------------------------------------------------------------------------------
