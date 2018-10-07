@@ -11,6 +11,8 @@ A collection of audio security related resources
 
 * [Data Sets](#data-sets)
 
+* [Speech To Text](#speech-to-text)
+
 * [Commercial Services](#commercial-services)
 
 ------------------------------------------------------------------------------------------
@@ -65,3 +67,14 @@ Here are a collection of audio datasets for training new models
 
 ### [Blizzard Challenge 2017](https://synsig.org/index.php/Blizzard_Challenge_2017)
 * Data comes from professional audiobooks produced by Usborne Publishing
+
+# Speech To Text
+------------------------------------------------------------------------------------------
+
+### [Mozilla Deep Speech](https://github.com/mozilla/DeepSpeech)
+* A TensorFlow implementation of Baidu's DeepSpeech architecture
+
+### [CMUSphinx](https://cmusphinx.github.io/)
+* Research project from the Carnegie Mellon University
+* [Golang library](https://github.com/xlab/pocketsphinx-go)
+* [Python library](https://github.com/cmusphinx/pocketsphinx-python)
