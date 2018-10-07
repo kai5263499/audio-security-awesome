@@ -13,6 +13,8 @@ A collection of audio security related resources
 
 * [Speech To Text](#speech-to-text)
 
+* [Text To Speech](#text-to-speech)
+
 * [Commercial Services](#commercial-services)
 
 ------------------------------------------------------------------------------------------
@@ -78,3 +80,15 @@ Here are a collection of audio datasets for training new models
 * Research project from the Carnegie Mellon University
 * [Golang library](https://github.com/xlab/pocketsphinx-go)
 * [Python library](https://github.com/cmusphinx/pocketsphinx-python)
+
+# Text to Speech
+------------------------------------------------------------------------------------------
+
+### [Tacotron](https://github.com/keithito/tacotron)
+* Based on a Google published paper published in April 2017, [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/pdf/1703.10135.pdf), where they present a neural text-to-speech model that learns to synthesize speech directly from (text, audio) pairs.
+* An implementation of Tacotron speech synthesis in TensorFlow
+
+### [Wavenet](https://en.wikipedia.org/wiki/WaveNet)
+* WaveNet is a deep neural network for generating raw audio. It was created by researchers at London-based artificial intelligence firm DeepMind. The technique, outlined in a paper in September 2016,[1] is able to generate more realistic-sounding human-like voices by sampling real human speech and directly modelling waveforms.
+* [Keras implementation of Wavenet](https://github.com/basveeling/wavenet)
+* [Tensorflow implementation of WaveNet](https://github.com/ibab/tensorflow-wavenet)
