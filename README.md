@@ -102,6 +102,9 @@ Here are a collection of audio datasets for training new models
 
 Sometimes open source projects either aren't up to par or a service with greater compute resources behind it makes more sense for a project.
 
+### [Lyrebird](https://lyrebird.ai/)
+* Free voice cloning service
+
 ### [Snowboy Kitt AI](https://snowboy.kitt.ai/)
 * [Snowboy Go Wrapper](https://github.com/brentnd/go-snowboy)
 
