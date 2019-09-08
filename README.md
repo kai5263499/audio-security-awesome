@@ -34,6 +34,11 @@ A collection of audio security related resources
 
 # Voice Cloning Implementations
 ------------------------------------------------------------------------------------------
+### [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+* GUI Python toolbox that boasts the ability to clone a voice with 5 seconds of sample data
+* Uses PyTorch and requires a GPU
+* [Video presentation of toolbox features](https://youtu.be/-O_hYhToKoA)
+
 ### [Audio Style Transfer](https://github.com/vadim-v-lebedev/audio_style_tranfer)
 * Python, Theano
 
