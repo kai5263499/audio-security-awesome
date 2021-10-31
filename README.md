@@ -28,7 +28,7 @@ A collection of audio security related resources
 
 # Voice Cloning Papers
 ------------------------------------------------------------------------------------------
-### [VoCo: Text-based Insertion and Replacement in Audio Narration](http://gfx.cs.princeton.edu/pubs/Jin_2017_VTI/Jin2017-VoCo-paper.pdf)
+### [VoCo: Text-based Insertion and Replacement in Audio Narration](https://gfx.cs.princeton.edu/pubs/Jin_2017_VTI/Jin2017-VoCo-paper.pdf)
 
 ### [Great Reddit thread](https://www.reddit.com/r/MachineLearning/comments/8o7mkt/d_is_there_an_implementation_of_neural_voice/)
 
@@ -37,7 +37,7 @@ A collection of audio security related resources
 ### [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * GUI Python toolbox that boasts the ability to clone a voice with 5 seconds of sample data
 * Uses PyTorch and requires a GPU
-* [Video presentation of toolbox features](https://youtu.be/-O_hYhToKoA)
+* [Video presentation of toolbox features](https://www.youtube.com/watch?v=-O_hYhToKoA&feature=youtu.be)
 
 ### [Audio Style Transfer](https://github.com/vadim-v-lebedev/audio_style_tranfer)
 * Python, Theano
